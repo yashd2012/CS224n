@@ -21,6 +21,8 @@ results/
 *.bin
 *.optim
 
+/cs224n-stanford-winter2021/Gensim/model/
+
 # Documents
 literature/
 slides+notes/
